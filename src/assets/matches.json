@@ -8,7 +8,7 @@
         "age": 32,
         "ht": "5ft 2in/157cm",
         "marriageStatus": "Unmarried",
-        "address": "chennai,Tamil Nadu,India",
+        "address": "Chennai,Tamil Nadu,India",
         "Prof": "Software Professional",
         "degree": "B.Tech",
         "memberShipStatus": {
@@ -26,7 +26,7 @@
         "age": 30,
         "ht": "4ft 2in/157cm",
         "marriageStatus": "Unmarried",
-        "address": "MUmbai, Tamil Nadu, India",
+        "address": "Mumbai, Tamil Nadu, India",
         "Prof": "Software Professional",
         "degree": "B.Com",
         "memberShipStatus": {
@@ -84,11 +84,11 @@
         "Prof": "Journalist",
         "degree": "BA",
         "memberShipStatus": {
-          "prime": false,
-          "assisted": true,
+          "prime": true,
+          "assisted": false,
           "show": true
         },
-        "color": "rgb(222,220,237)",
+        "color": "rgb(205,180,130)",
         "lastchatted": "1 wks ago",
         "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCQbhqnO1BxbupHb8dz3v3urTOSndHr-oB1g&usqp=CAU"
       },
@@ -138,11 +138,11 @@
         "Prof": "Architect",
         "degree": "B.Arch",
         "memberShipStatus": {
-          "prime": false,
-          "assisted": true,
+          "prime": true,
+          "assisted": false,
           "show": true
         },
-        "color": "rgb(222,220,237)",
+        "color": "rgb(205,180,130)",
         "lastchatted": "5 days ago",
         "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMjtQBov56OAJ7YJUmTUfeYpvVau2zgDkCyA&usqp=CAU"
       },
@@ -174,11 +174,11 @@
         "Prof": "Engineer",
         "degree": "M.Tech",
         "memberShipStatus": {
-          "prime": false,
-          "assisted": true,
+          "prime": true,
+          "assisted": false,
           "show": true
         },
-        "color": "rgb(222,220,237)",
+        "color": "rgb(205,180,130)",
         "lastchatted": "1 wks ago",
         "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuvtnZtdlSeudxLlNQuXoEMBwIHzJqOGiIrQ&usqp=CAU"
       },
@@ -305,11 +305,11 @@
         "Prof": "Software Engineer",
         "degree": "B.Tech",
         "memberShipStatus": {
-          "prime": false,
-          "assisted": true,
+          "prime": true,
+          "assisted": false,
           "show": true
         },
-        "color": "rgb(222,220,237)",
+        "color": "rgb(205,180,130)",
         "lastchatted": "1 month ago",
         "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsAAOkS4PFkJXqNlJii6aEiDZbe8hLuQtBSmm5bWX0wYMCspwdO5GOrDWbRyoQhADsnLg&usqp=CAU"
       },
@@ -359,8 +359,8 @@
         "Prof": "Graphic Designer",
         "degree": "BFA",
         "memberShipStatus": {
-          "prime": false,
-          "assisted": true,
+          "prime": true,
+          "assisted": false,
           "show": true
         },
         "color": "rgb(205,180,130)",
@@ -395,11 +395,11 @@
         "Prof": "Software Developer",
         "degree": "B.Tech",
         "memberShipStatus": {
-          "prime": false,
-          "assisted": true,
+          "prime": true,
+          "assisted": false,
           "show": true
         },
-        "color": "rgb(222,220,237)",
+        "color": "rgb(205,180,130)",
         "lastchatted": "32 mins ago",
         "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNNRqKoghIDo3Vefq59_pyxm3TMTFnMYzOzg&usqp=CAU"
       }

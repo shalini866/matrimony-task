@@ -18,3 +18,9 @@
     margin: auto;
     display: block;
 }
+
+::ng-deep.addr-font-size {
+    font-size: 15px!important;
+    color: rgb(170,170,170)!important;
+    font-weight: 500!important;
+}
